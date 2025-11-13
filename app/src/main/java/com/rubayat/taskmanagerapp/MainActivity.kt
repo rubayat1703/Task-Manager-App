@@ -1,7 +1,6 @@
 package com.rubayat.taskmanagerapp
 
 import com.rubayat.taskmanagerapp.TaskAdapter
-import Database.Task
 import com.rubayat.taskmanagerapp.TaskDao
 import com.rubayat.taskmanagerapp.TaskDatabase
 import android.content.Intent
