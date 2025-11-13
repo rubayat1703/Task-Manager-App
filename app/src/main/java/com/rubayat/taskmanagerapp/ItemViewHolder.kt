@@ -1,4 +1,4 @@
-package Adapter
+package com.rubayat.taskmanagerapp
 
 import androidx.recyclerview.widget.RecyclerView
 import com.rubayat.taskmanagerapp.databinding.ItemListBinding

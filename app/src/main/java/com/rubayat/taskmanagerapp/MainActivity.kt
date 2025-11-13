@@ -1,6 +1,6 @@
 package com.rubayat.taskmanagerapp
 
-import Adapter.TaskAdapter
+import com.rubayat.taskmanagerapp.TaskAdapter
 import Database.Task
 import Database.TaskDao
 import Database.TaskDatabase

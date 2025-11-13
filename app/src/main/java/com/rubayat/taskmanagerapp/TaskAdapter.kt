@@ -1,19 +1,10 @@
-package Adapter
+package com.rubayat.taskmanagerapp
 
 import Database.Task
-import Database.TaskDao
-import android.R.id.edit
-import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import android.widget.CheckBox
-import android.widget.Toast
-import androidx.appcompat.app.AlertDialog
 import androidx.recyclerview.widget.RecyclerView
-import com.rubayat.taskmanagerapp.MainActivity
 import com.rubayat.taskmanagerapp.databinding.ItemListBinding
-
-
 
 class TaskAdapter(val tasks: List<Task>,
                   val listener : handelUserClick,
