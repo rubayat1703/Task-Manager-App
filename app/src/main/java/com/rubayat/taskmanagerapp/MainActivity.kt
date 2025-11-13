@@ -2,8 +2,8 @@ package com.rubayat.taskmanagerapp
 
 import com.rubayat.taskmanagerapp.TaskAdapter
 import Database.Task
-import Database.TaskDao
-import Database.TaskDatabase
+import com.rubayat.taskmanagerapp.TaskDao
+import com.rubayat.taskmanagerapp.TaskDatabase
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast

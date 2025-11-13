@@ -1,8 +1,8 @@
 package com.rubayat.taskmanagerapp
 
 import Database.Task
-import Database.TaskDao
-import Database.TaskDatabase
+import com.rubayat.taskmanagerapp.TaskDao
+import com.rubayat.taskmanagerapp.TaskDatabase
 import android.app.DatePickerDialog
 import android.content.Intent
 import android.os.Bundle

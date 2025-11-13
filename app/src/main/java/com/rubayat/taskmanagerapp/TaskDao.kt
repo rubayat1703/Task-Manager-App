@@ -1,4 +1,4 @@
-package Database
+package com.rubayat.taskmanagerapp
 
 import androidx.room.Dao
 import androidx.room.Delete
@@ -12,7 +12,7 @@ interface TaskDao {
     @Insert
     fun addTask(task: Task)
 
-    @Query("select * from Task")
+    @Query("SELECT * FROM Task")
     fun getAllTask(): List<Task>
 
     @Delete

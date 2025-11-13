@@ -1,5 +1,6 @@
-package Database
+package com.rubayat.taskmanagerapp
 
+import com.rubayat.taskmanagerapp.TaskDao
 import androidx.room.Database
 import androidx.room.RoomDatabase
 
